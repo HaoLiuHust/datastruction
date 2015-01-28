@@ -14,7 +14,7 @@
     <ProjectGuid>{04F3BC11-E265-42E8-B4FE-1E0B7C325AB3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Queen</RootNamespace>
-    <ProjectName>ArrayQueen</ProjectName>
+    <ProjectName>ArrayQueue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
