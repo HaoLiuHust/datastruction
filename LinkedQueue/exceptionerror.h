@@ -1,5 +1,5 @@
-#ifndef OUTOFBOUND_H
-#define OUTOFBOUND_H
+#ifndef EXCEPTIONERROR_H
+#define EXCEPTIONERROR_H
 #include <iostream>
 class OutofBounds
 {
